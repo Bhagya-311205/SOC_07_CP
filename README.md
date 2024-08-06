@@ -1,2 +1,3 @@
-# SOC_07_CP
-# This repository contains the codes written during practicing the learned topics from competitive programming.
+## I am Bhagya Agrawal (23B2458) 
+### This is my github repository for SOC 2024 Project ID-07 Competitive Programming
+### After eight weeks, I have become confident in STL, Greedy problems and doing more and more questions on Dynamic Programming till I become confident enough.
